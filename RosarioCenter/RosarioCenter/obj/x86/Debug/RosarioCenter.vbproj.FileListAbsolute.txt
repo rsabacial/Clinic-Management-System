@@ -1,0 +1,56 @@
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Resources.resources
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Pregnants.resources
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.vbproj.GenerateResource.Cache
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.exe
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.pdb
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.xml
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.exe
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.xml
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.pdb
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Head.resources
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.HeadorEmployee.resources
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.main.resources
+C:\Users\SAM\documents\visual studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.ChildsProfile.resources
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Employee.resources
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.AllProfile.resources
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.ToddlerProfile.resources
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.PregnantHistory.resources
+C:\Users\ABACIAL\Desktop\amoooo\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.exe
+C:\Users\ABACIAL\Desktop\amoooo\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.xml
+C:\Users\ABACIAL\Desktop\amoooo\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.pdb
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.exe
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.xml
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.pdb
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.exe
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.pdb
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.xml
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.AllProfile.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.ChildsProfile.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Employee.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Head.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.HeadorEmployee.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.main.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Resources.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.PregnantHistory.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.ToddlerProfile.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Pregnants.resources
+C:\Users\ABACIAL\Desktop\systems\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.vbproj.GenerateResource.Cache
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.exe
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.xml
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.pdb
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.exe
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.pdb
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\bin\Debug\RosarioCenter.xml
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.AllProfile.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.ChildsProfile.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Employee.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Head.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.HeadorEmployee.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.main.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Resources.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.PregnantHistory.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.ToddlerProfile.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.Pregnants.resources
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.vbproj.GenerateResource.Cache
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.vbprojAssemblyReference.cache
+C:\Users\Abacial\Documents\Visual Studio 2010\Projects\RosarioCenter\RosarioCenter\obj\x86\Debug\RosarioCenter.vbproj.CoreCompileInputs.cache
